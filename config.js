@@ -7,7 +7,7 @@ var refreshDelay = 30000;
 // pools stats by MainCoins
 var networkStat = {
  "roto": [
-	["roto2coin.cf", "http://roto2coin.cf:8117"],
+	["roto2.cncoin.cf", "http://roto2coin.cf:8117"],
 	["pool.forovirgenes.es", "http://pool.forovirgenes.es:8117"]
 ]
 };
