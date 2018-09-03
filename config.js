@@ -8,7 +8,8 @@ var refreshDelay = 30000;
 var networkStat = {
  "roto": [
 	["roto2.cncoin.cf", "http://roto2coin.cf:8117"],
-	["pool.forovirgenes.es", "http://pool.forovirgenes.es:8117"]
+	["pool.forovirgenes.es", "http://pool.forovirgenes.es:8117"],
+	["pool288.forovirgenes.es", "http://pool288.forovirgenes.es:8117"]
 ]
 };
 
